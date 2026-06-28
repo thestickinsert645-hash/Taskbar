@@ -30,5 +30,80 @@
 
     <Preference
         android:key="shortcut_5" />
+     
+    <Preference
+        android:key="shortcut_6" />
 
+    <Preference
+        android:key="shortcut_7" />
+
+    <Preference
+        android:key="shortcut_8" />
+
+    <Preference
+        android:key="shortcut_9" />
+
+    <Preference
+        android:key="shortcut_10" />
+     
+    <Preference
+        android:key="shortcut_11" />
+
+    <Preference
+        android:key="shortcut_12" />
+
+    <Preference
+        android:key="shortcut_13"/>
+
+    <Preference
+        android:key="shortcut_14" />
+
+    <Preference
+        android:key="shortcut_15" />
+     
+    <Preference
+        android:key="shortcut_16" />
+
+    <Preference
+        android:key="shortcut_17" />
+
+    <Preference
+        android:key="shortcut_18" />
+
+    <Preference
+        android:key="shortcut_19" />
+
+    <Preference
+        android:key="shortcut_20" />
+     
+    <Preference
+        android:key="shortcut_21" />
+
+    <Preference
+        android:key="shortcut_22" />
+
+    <Preference
+        android:key="shortcut_23"/>
+
+    <Preference
+        android:key="shortcut_24" />
+
+    <Preference
+        android:key="shortcut_25" />
+     
+    <Preference
+        android:key="shortcut_26" />
+
+    <Preference
+        android:key="shortcut_27" />
+
+    <Preference
+        android:key="shortcut_28" />
+
+    <Preference
+        android:key="shortcut_29" />
+
+    <Preference
+        android:key="shortcut_30" />
+     
 </PreferenceScreen>
